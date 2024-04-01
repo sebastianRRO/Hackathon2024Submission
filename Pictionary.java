@@ -9,7 +9,7 @@ public class Pictionary {
     private JComboBox<String> colorComboBox;
 
     private Color currentColor = Color.BLACK;
-
+//Hello WOrld
     public Pictionary(int width, int height) {
         frame = new JFrame("Pixel Art Editor");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
